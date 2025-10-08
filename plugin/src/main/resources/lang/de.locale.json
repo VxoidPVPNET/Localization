@@ -1,0 +1,20 @@
+{
+  "localization.command.lang.change": "&aDu hast deine Sprache zu {local} geändert",
+
+  "localization.command.lang.reload.successfully": "&aAlle Sprachdateien in allen Plugins wurden erfolgreich neu geladen",
+  "localization.command.lang.reload.failed": "&cFehler beim Neuladen der Sprachdateien. Siehe Konsole für weitere Informationen",
+
+  "localization.gui.lang.title": "&5Vxoid &8» &7Sprache ändern",
+
+  "localization.gui.lang.item.english": "&5Englisch",
+  "localization.gui.lang.item.english.lore": [
+    "&7Klicke, um deine Sprache",
+    "&7auf &bEnglisch &7zu ändern »"
+  ],
+
+  "localization.gui.lang.item.german": "&5Deutsch",
+  "localization.gui.lang.item.german.lore": [
+    "&7Klicke, um deine Sprache",
+    "&7auf &bDeutsch &7zu ändern »"
+  ]
+}

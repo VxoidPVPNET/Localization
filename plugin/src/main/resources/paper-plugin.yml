@@ -1,0 +1,11 @@
+name: Localization
+version: ${version}
+api-version: '1.21'
+authors: [ xXJanisXx ]
+description: Localization plugin for the vxoidpvp.net server.
+main: net.vxoidpvp.localization.LocalizationPaperPlugin
+
+permissions:
+  localization.command.lang:
+    description: base lang command perm
+    default: true
